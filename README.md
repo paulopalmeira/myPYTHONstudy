@@ -5,3 +5,7 @@
 
 27/10/2022 - Conditionals
 
+28/10/2022 - Repetition Structure
+
+    # A FOR LOOP consists of three variables: Initialization, Condition, and Step. 
+    # Lets test.
