@@ -10,5 +10,4 @@
     # A FOR LOOP consists of three variables: Initialization, Condition, and Step. 
     # Lets test.
 
-24/12/2022 - Instalei flask_table, pymysql e flask-mysql
-
+24/12/2022 - CRUD com mysql-conector :) funfou
