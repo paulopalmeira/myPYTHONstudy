@@ -59,7 +59,6 @@ print("A quantidade de números divisíveis por 3 na sequência de 1 a 30 é: ",
 # condição. Se o número atual da sequência (contido na variável “i”) dividido por três,
 # resultar seu resto (por isso o operador de módulo) em zero, o número é divisível por
 # 3 e assim, as linhas 4 e 5 serão executadas;
-
 # da hora ;)
 
 minhaString="ABCDEFGH"
